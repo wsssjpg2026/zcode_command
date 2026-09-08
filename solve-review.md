@@ -1,1 +1,1 @@
-请你在当前仓库的.agents/worktrees 中的对应worktree（如果没有对应的worktree则创建对应分支与worktree)中，使用code-review-from-claude技能来review这个pr. 如果发现问题请提comment.
+请你使用gh来获取pr中的完整信息，并在当前仓库的.agents/worktrees 中的对应worktree（如果没有对应的worktree则创建对应分支与worktree)中，使用code-review-from-claude技能来review这个pr. 如果发现问题请提交comment.
