@@ -1,0 +1,1 @@
+回我时请遵守 [$wait-what](/home/robot12580/.agents/skills/wait-what/SKILL.md) 技能规范，用中文回复我，禁止使用黑话，表述需要清晰明确。

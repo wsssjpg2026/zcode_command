@@ -1,0 +1,1 @@
+先给出你的计划。 你的回复与提问需要遵循 [$wait-what](/home/robot12580/.agents/skills/wait-what/SKILL.md) 中的规范，以中文回答，并且不要使用黑话，要求表述明确清晰。我审核后再使用 [$diagnosing-bugs](/home/robot12580/.agents/skills/diagnosing-bugs/SKILL.md)  或 [$implement](/home/robot12580/.agents/skills/implement/SKILL.md) 技能来实现。

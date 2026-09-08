@@ -1,0 +1,1 @@
+使用show-me技能，回答时遵循ASD-STE100 Simplified Technical English中的规范，用中文告诉我这个是做什么的？回答时禁止使用黑话，表述要清晰明确。
