@@ -1,1 +1,1 @@
-请你使用gh获得这个issue的完整信息，判断是否可以认领这个issue。如果可以请创建对应分支，并在当前仓库的.agents/worktrees下创建对应worktree. 使用implement技能来实现这个issue.提pr后关联该issue，完成后不要合并pr,并提交comment,等待reviewer来review.
+请你使用gh获得这个issue的完整信息，判断是否可以认领这个issue。如果可以请创建对应分支，并在当前仓库的.agents/worktrees下创建对应worktree. 使用implement技能来实现这个issue,涉及到视觉的工作要积极使用视觉检查.提pr后关联该issue，完成后不要合并pr,并提交comment,等待reviewer来review.
