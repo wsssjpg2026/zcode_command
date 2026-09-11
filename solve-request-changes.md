@@ -1,1 +1,1 @@
-请你使用gh获取这个pr的完整信息，并在当前仓库的.agents/worktrees 中的对应worktree（如果没有对应的worktree则创建对应分支与worktree)中，使用diagnosing-bugs技能来处理这个pr中review暴露出来的问题，涉及到视觉的工作要积极使用视觉检查。完成后不要合并pr,并提交comment,等待reviewer来review.
+请你使用gh获取这个pr的完整信息，并在当前仓库的.agents/worktrees 中的对应worktree（如果没有对应的worktree则创建对应分支与worktree)中，使用diagnosing-bugs技能来处理这个pr中review暴露出来的问题，如果遇到涉及到视觉的工作要积极使用视觉检查。完成后不要合并pr,并提交comment,等待reviewer来review.
